@@ -26,17 +26,15 @@
 
 ## fibos
 	
-	快速启动fibos 节点
-
-		[https://github.com/FIBOS-Community/fibos-nodes](https://github.com/FIBOS-Community/fibos-nodes)
+快速启动fibos节点: [https://github.com/FIBOS-Community/fibos-nodes](https://github.com/FIBOS-Community/fibos-nodes)
 	
-	官网：[https://fibos.io](https://fibos.io) 
+官网：[https://fibos.io](https://fibos.io) 
 	
-	开发者社区：[https://dev.fo](https://dev.fo)
+开发者社区：[https://dev.fo](https://dev.fo)
 
-## 麒麟
+## CryptoKylin
 
-	[https://github.com/eosstore/cryptokylin-illustrate](https://github.com/eosstore/cryptokylin-illustrate)
+[https://github.com/eosstore/cryptokylin-illustrate](https://github.com/eosstore/cryptokylin-illustrate)
 
 
 
