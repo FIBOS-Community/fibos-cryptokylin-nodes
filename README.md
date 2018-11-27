@@ -24,13 +24,19 @@
 
 	netstat -aln|grep  '内网ip:9870' | grep -c 'ESTABLISHED'    //find how many people connet you
 
-## 了解fibos
+## fibos
 	
 	快速启动fibos 节点
 
-		(https://github.com/FIBOS-Community/fibos-nodes)
+		[https://github.com/FIBOS-Community/fibos-nodes](https://github.com/FIBOS-Community/fibos-nodes)
 	
-	官网：(https://fibos.io) 
+	官网：[https://fibos.io](https://fibos.io) 
 	
-	开发者社区：(https://dev.fo)
+	开发者社区：[https://dev.fo](https://dev.fo)
+
+## 麒麟
+
+	[https://github.com/eosstore/cryptokylin-illustrate](https://github.com/eosstore/cryptokylin-illustrate)
+
+
 
