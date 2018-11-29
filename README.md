@@ -1,8 +1,8 @@
-# FIBOS-cryptokylin-NODES
+# fibos-cryptokylin-nodes
 
 	通过备份快速启动 EOS 节点
 
-	默认数据，配置存储位置 /blockData/data
+	默认数据，配置存储位置 ./blockData/data
 
 # 说明
 API node:
@@ -15,9 +15,9 @@ P2P node:
 
 # 数据持久化
 
-	基于 FIBOS 节点 emitter 监听事件
+基于 FIBOS 节点 emitter 监听事件
 
-	最佳实践框架 [fibos-tracker](https://github.com/FIBOSIO/fibos-tracker)
+最佳实践框架 [fibos-tracker](https://github.com/FIBOSIO/fibos-tracker)
 	
 
 ## 启动说明
