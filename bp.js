@@ -23,7 +23,7 @@ fibos.config_dir = config.config_dir;
 fibos.data_dir = config.data_dir;
 
 var chain_config = {
-	"contracts-console": true,
+	"contracts-console": false,
 	'chain-state-db-size-mb': config["chain-state-db-size-mb"]
 };
 
