@@ -13,7 +13,7 @@ console.notice("data_dir:", fibos.data_dir);
 
 
 fibos.load("http", {
-	"http-server-address": "0.0.0.0:8870",
+	"http-server-address": "0.0.0.0:7070",
 	"access-control-allow-origin": "*",
 	"http-validate-host": false,
 	"verbose-http-errors": true //打开报错
@@ -27,7 +27,7 @@ fibos.load("net", {
 });
 
 var chain_config = {
-	"contracts-console": true,
+	// "contracts-console": true,
 	'chain-state-db-size-mb': config["chain-state-db-size-mb"]
 };
 
@@ -40,5 +40,6 @@ fibos.load("chain_api");
 
 fibos.pubkey_prefix = "EOS";
 fibos.core_symbol = "EOS";
+fibos.enableJSContract = false;
 
 fibos.start();
