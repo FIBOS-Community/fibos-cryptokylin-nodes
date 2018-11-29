@@ -4,7 +4,12 @@
 
 	默认数据，配置存储位置 ./blockData/data
 
-# 说明
+## CryptoKylin
+
+[https://github.com/eosstore/cryptokylin-illustrate](https://github.com/eosstore/cryptokylin-illustrate)
+
+
+## 说明
 API node:
 
 	http://api-kylin.fibos.testnet.fo:7070/v1/chain/get_info
@@ -13,7 +18,7 @@ P2P node:
 	
 	p2p-kylin.fibos.testnet.fo:9870
 
-# 数据持久化
+## 数据持久化
 
 基于 FIBOS 节点 emitter 监听事件
 
@@ -45,11 +50,4 @@ P2P node:
 官网：[https://fibos.io](https://fibos.io) 
 	
 开发者社区：[https://dev.fo](https://dev.fo)
-
-
-## CryptoKylin
-
-[https://github.com/eosstore/cryptokylin-illustrate](https://github.com/eosstore/cryptokylin-illustrate)
-
-
 
