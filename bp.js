@@ -57,4 +57,6 @@ fibos.load("chain_api");
 
 fibos.pubkey_prefix = "EOS";
 fibos.core_symbol = "EOS";
+fibos.enableJSContract = false;
+
 fibos.start();
