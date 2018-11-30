@@ -10,6 +10,10 @@
 
 
 ## 说明
+
+bp:
+	fibosfibosbp
+
 API node:
 
 	http://api-kylin.fibos.testnet.fo:7070/v1/chain/get_info
